@@ -4,7 +4,7 @@ from tkinter import *
 root = Tk()
 root.title("Gemini Ai")
 
-configure(api_key="AIzaSyDdp_p1cq6fb-FrF96VJodhSUDe4PJbzNM")
+configure(api_key="YOUR_APIKEY")
 
 place = 0
 flag = 1
